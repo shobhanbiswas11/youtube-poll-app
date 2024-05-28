@@ -1,0 +1,23 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pollapp-prod-c7476-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418265580:role/amplify-pollapp-prod-c7476-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418265580:role/amplify-pollapp-prod-c7476-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-pollapp-prod-c7476-deployment",
+      "UnauthRoleName": "amplify-pollapp-prod-c7476-unauthRole",
+      "StackName": "amplify-pollapp-prod-c7476",
+      "StackId": "arn:aws:cloudformation:ap-south-1:905418265580:stack/amplify-pollapp-prod-c7476/5293a4d0-178d-11ef-b4fe-067232fdc6fc",
+      "AmplifyAppId": "dcea2v12hi38p"
+    },
+    "categories": {
+      "api": {
+        "pollapp": {}
+      },
+      "auth": {
+        "pollappe048187c": {}
+      }
+    }
+  }
+}
